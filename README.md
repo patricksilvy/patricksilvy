@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **JavaScript, HTML, CSS, Node.JS**
 
-- 📫 The fastest way to talk to me is by email
+- 📫 The fastest way to talk to me is on instagram @patrick_silvy
 
 <br><br>
 
