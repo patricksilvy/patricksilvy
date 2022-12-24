@@ -15,8 +15,8 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="540em" src="https://github-readme-stats.vercel.app/api?username=patricksilvy&show_icons=true&theme=vision-friendly-dark" alt="Patrick Silvy's stats"/>
-<img width="540em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricksilvy&layout=compact&theme=vision-friendly-dark" alt="Patrick Silvy's most languages"/>
+<img width="180em" src="https://github-readme-stats.vercel.app/api?username=patricksilvy&show_icons=true&theme=vision-friendly-dark" alt="Patrick Silvy's stats"/>
+<img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricksilvy&layout=compact&theme=vision-friendly-dark" alt="Patrick Silvy's most languages"/>
 </p>
 
 <br><br>
