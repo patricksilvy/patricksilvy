@@ -1,43 +1,106 @@
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Patrick Silvy</h1>
-
-- 🚀 I'm focused on improving myself in web development
-
-- 🔭 "First solve the problem. Then write the code"
-
-- 🌱  I’m currently learning reactjs
-
-- 💬 Ask me about **JavaScript, HTML, CSS, Node.JS**
-
-- 📫 The fastest way to talk to me is on instagram @patrick_silvy
-
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
+<h1 align="center">Olá 👋, Me chamo Patrick Silvy</h1>
+<h3 align="center">Estudante e dev front-end</h3>
 
 <p align="left">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=patricksilvy&show_icons=true&theme=vision-friendly-dark" alt="Patrick Silvy's stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patricksilvy&layout=compact&theme=vision-friendly-dark" alt="Patrick Silvy's most languages"/>
+    <img src="https://komarev.com/ghpvc/?username=patricksilvy&label=Profile%20views&color=0e75b6&style=flat"
+        alt="patricksilvy" />
 </p>
 
-<br><br>
+- 🔭 Atualmente estou trabalhando em **Desenvolvimento react**
 
-## 🛠 &nbsp;Tech Stack
+- 👨‍💻 Todos os meus projetos estão disponíveis em
+[https://patricksilvy.github.io/](https://patricksilvy.github.io/)
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+- 💬 Ask me about **react, react native, javascript, html, css**
 
-<br><br>
+- 📫 Como chegar até mim **patricksilvy.contato@gmail.com**
 
-## 👦🏻 &nbsp;Social Links
+<h3 align="left">Fale comigo em:</h3>
 
-<p align="left" style="background:yellow">
-<a href="https://instagram.com/patrick_silvy" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-patrick_silvy-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
+<p align="left">
+    <a href="https://instagram.com/patrick_silvy" target="blank"><img align="center"
+            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+            alt="patrick_silvy" height="30" width="40" />
+    </a>
+</p>
+
+<h3 align="left">Linguagens e Ferramentas:</h3>
+
+<p align="left">
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+            alt="css3" width="40" height="40" />
+    </a>
+
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" />
+    </a>
+
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
+    </a>
+
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+            alt="html5" width="40" height="40" />
+    </a>
+
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+            alt="javascript" width="40" height="40" />
+    </a>
+
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux"
+            width="40" height="40" />
+    </a>
+
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40" />
+    </a>
+
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+            alt="nodejs" width="40" height="40" />
+    </a>
+
+    <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40"
+            height="40" />
+    </a>
+
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
+            alt="react" width="40" height="40" />
+    </a>
+
+    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
+        <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" />
+    </a>
+
+    <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40"
+            height="40" />
+    </a>
+
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="typescript" width="40" height="40" />
+    </a>
+</p>
+
+<p align="center">
+  <img align="center"
+       height="180em"
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=patricksilvy&show_icons=true&locale=en&layout=compact"
+      alt="patricksilvy" />
+
+  <img align="center" 
+       height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=patricksilvy&show_icons=true&locale=en"
+       alt="patricksilvy" />
+</p>
+
+<p align="center">
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=patricksilvy&" alt="patricksilvy" />
 </p>
