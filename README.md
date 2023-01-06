@@ -25,6 +25,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patricksilvy&show_icons=true&theme=dark&locale=en" alt="patricksilvy" />
 </p>
 
-<p align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com?user=patricksilvy&theme=vue-dark&border_radius=14.8&locale=pt_BR)](https://git.io/streak-stats)
-</p>
+ [![GitHub Streak](https://streak-stats.demolab.com?user=patricksilvy&theme=vue-dark&border_radius=14.8&locale=pt_BR)](https://git.io/streak-stats)
+
