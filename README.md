@@ -1,10 +1,10 @@
 <h1 align="center">Olá 👋, Me chamo Patrick Silvy</h1>
 
+<h3 align="center">Estudante e dev front-end</h3>
+
 <p align="center">
   <img height="180em" src="https://streak-stats.demolab.com?user=patricksilvy&theme=dark&border_radius=14.8&locale=pt_BR" alt="patricksilvy"/>
 </p>
-
-<h3 align="center">Estudante e dev front-end</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patricksilvy&label=Profile%20views&color=0e75b6&style=flat" alt="patricksilvy" /> </p>
 
