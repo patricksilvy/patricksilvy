@@ -22,9 +22,9 @@
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?user=patricksilvy&show_icons=true&theme=dark&locale=en&layout=compact" alt="patricksilvy" />
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=patricksilvy&show_icons=true&theme=dark&locale=en" alt="patricksilvy" />
+  ![Patrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=patricksilvy&show_icons=true&theme=dark)
 </p>
 
 <p align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?username=patricksilvy&theme=dark&border_radius=14.8&locale=pt_BR" alt="patricksilvy"/>
+  <img height="180em" src="https://streak-stats.demolab.com?user=patricksilvy&theme=dark&border_radius=14.8&locale=pt_BR" alt="patricksilvy"/>
 </p>
